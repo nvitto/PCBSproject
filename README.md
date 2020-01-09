@@ -1,5 +1,9 @@
 # PCBSproject
 
+Nina Vittorelli 
+PCBS 2019-2020
+
+
 ## Description du projet 
 
 Mon projet consiste à rédiger des algorithmes en langage Python pour résoudre analytiquement certaines équations différentielles que l'on retrouve fréquemment dans des modèles d'écologie des populations. 
@@ -14,14 +18,11 @@ J'applique la méthode d'Euler explicite pour afficher graphiquement l'allure de
 J'utilise un notebook pour pouvoir insérer à la fois des explications sur les modèles, des équations en langage Latex, des programmes Python et des graphiques représentant les solutions. 
 
 Voici le programme que j'ai rédigé pour afficher graphiquement l'allure de la solution de l'équation différentielle
-$$ (E) \left\{
-    \begin{array}{ll}
-        N'(t) = 0.1N(t) \\
-        N(0) = 10
-    \end{array}
-\right. $$
 
-pour $t$ variant entre $0$ et $40$
+![equation](https://github.com/nvitto/PCBSproject/blob/master/Equation.png)
+
+
+pour t variant entre 0 et 40.
 
     import matplotlib.pyplot as plt
     import numpy as np
@@ -52,12 +53,13 @@ pour $t$ variant entre $0$ et $40$
     plt.show()
 
 Dans mon projet, je vais utiliser ce code en le modifiant de différentes manières pour obtenir les résultats suivants : 
-- Changer la fonction $F$
+- Changer la fonction F.
 - Sur le même graphique, afficher plusieurs courbes selon la condition initiale.
 - Sur le même graphique, afficher plusieurs courbes selon la valeur des paramètres du modèle.
-- Afficher la représentation graphique des solutions d'un système d'équations différentielles avec deux fonctions inconnues. 
+- Afficher la représentation graphique des solutions d'un système d'équations différentielles avec deux fonctions inconnues.
 
-## Bilan du projet
+
+## Bilan 
 
 Avant ce cours, j'avais un peu d'expérience en programmation. J'avais appris à utiliser R pour faire de l'analyse de données et des statistiques. J'avais également rencontré les langages Bash et Python pendant un stage. 
 
