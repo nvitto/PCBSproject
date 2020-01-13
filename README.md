@@ -8,7 +8,7 @@ PCBS 2019-2020
 
 Mon projet consiste à rédiger des algorithmes en langage Python pour résoudre analytiquement certaines équations différentielles que l'on retrouve fréquemment dans des modèles d'écologie des populations. 
 
-Je commence par des équations à une inconnue (modélisation de l'évolution d'une seule population) issues des modèles de croissance exponentielle puis logarithmique. Ensuite, je cherche à résoudre les systèmes à deux inconnues modélisant l'interaction d'une population de proies et d'une population de prédateurs  (modèle de Lotka-Volterra). 
+Je commence par des équations à une inconnue (modélisation de l'évolution d'une seule population) issues des modèles de croissance exponentielle puis logistique. Ensuite, je cherche à résoudre les systèmes à deux inconnues modélisant l'interaction d'une population de proies et d'une population de prédateurs  (modèle de Lotka-Volterra). 
 
 
 ## Méthode 
@@ -57,6 +57,11 @@ Dans mon projet, je vais utiliser ce code en le modifiant de différentes maniè
 - Sur le même graphique, afficher plusieurs courbes selon la condition initiale.
 - Sur le même graphique, afficher plusieurs courbes selon la valeur des paramètres du modèle.
 - Afficher la représentation graphique des solutions d'un système d'équations différentielles avec deux fonctions inconnues.
+
+
+## Accès au projet
+
+Pour accéder à mon projet, il est possible de lire le [notebook sur Github](https://github.com/nvitto/PCBSproject/blob/master/Notebook.ipynb). Sinon, il faut ouvrir le document Notebook.ipynb de ce répertoire dans [Jupyter](https://jupyter.org/). 
 
 
 ## Bilan 
