@@ -66,6 +66,8 @@ Pour accéder à mon projet, il est possible de lire le [notebook sur Github](ht
 
 ## Bilan 
 
-Avant ce cours, j'avais un peu d'expérience en programmation. J'avais appris à utiliser R pour faire de l'analyse de données et des statistiques. J'avais également rencontré les langages Bash et Python pendant un stage. 
+Avant ce cours, j'avais un petit peu d'expérience en programmation, j'avais surtout appris à faire de l'analyse de données avec le language R. J'avais également rencontré Bash et Python pendant un stage.
 
-Ce cours et ce projet m'ont permis d'être plus à l'aise avec le langage Python et de découvrir la programmation pour la modélisation - j'avais surtout fait de l'analyse de données. J'ai aussi découvert et appris à utiliser Jupyter, Markdown et Git, et j'ai trouvé que c'étaient des outils intéressants à connaître. 
+Ce cours et ce projet m'ont permis d'être plus à l'aise avec le langage Python et de découvrir la programmation pour la modélisation. J'ai aussi appris à utiliser Jupyter, Markdown et Git, et j'ai trouvé que c'étaient des outils très utiles à connaître.
+
+Je trouve ça vraiment intéressant de pouvoir avancer sur un projet personnel à son rythme en posant des questions sur Slack et en cours. Cependant, j'ai le sentiment que la première partie du cours gagnerait à être dispensée devant des groupes de niveau, pour éviter que les débutants ne se sentent perdus et que les élèves les plus avancés ne s'ennuient. En revanche, les petits exercices proposés entre chaque cours étaient utiles pour chercher par soi-même et à son rythme, ils permettaient vraiment de progresser. Enfin, je pense qu'il pourrait être intéressant d'aborder la programmation pour les statistiques pendant les cours. 
